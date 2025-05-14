@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cahian Freire
 
-I'm a Software Engineer passionate about creating efficient and scalable solutions. I focus on full-stack development, automation, and data processing, with a special love for Python, TypeScript, and AWS.
+I'm a Software Engineer passionate about creating efficient and scalable solutions. I focus on full-stack development, automation, and data processing, with a special love for Python, TypeScript, PostgreSQL, and AWS.
 
 🎓 Pursuing a Bachelor's in Computer Science at UNIP (2022 - 2026)
 
