@@ -11,12 +11,14 @@ I'm a Software Engineer passionate about creating efficient and scalable solutio
 ## 🛠️ Technologies I use
 
 - **Languages:** Python, TypeScript, JavaScript, Java
-- **Back-End:** Django, Flask, FastAPI, Node.js, Express.js, RabbitMQ  
-- **Front-End:** React, Next.js, Redux, Axios
-- **Databases:** PostgreSQL, SQL Server 
-- **Cloud & DevOps:** AWS, Linux, Jenkins  
-- **Automation & Testing:** Selenium, Playwright, Pytest, Cypress  
-- **Others:** Git, Pandas, SQL
+- **Back-End:** Django, FastAPI, Node.js, Express, RabbitMQ
+- **Front-End:** React, Next.js, Tailwind, SCSS
+- **Databases:** PostgreSQL, SQL Server, MySQL
+- **Cloud & DevOps:** AWS, Linux, Bash, Jenkins, Docker, Nginx
+- **Testing & Automation:** Selenium, Playwright, Pytest, Cypress
+- **Monitoring & APIs:** Prometheus, Grafana, Swagger/OpenAPI
+- **Data Tools:** Pandas, Jupyter, Power BI, Excel
+- **Others:** Git, GitHub
 
 ## 📊 My GitHub Stats
 
@@ -24,6 +26,7 @@ I'm a Software Engineer passionate about creating efficient and scalable solutio
 
 ## 📫 Where to find me
 
-- Email: cahianfreire@gmail.com
-- LinkedIn: linkedin.com/in/cahian  
-- Instagram: instagram.com/cahianfreire
+[![Email](https://img.shields.io/badge/Email-cahianfreire@gmail.com-red?style=flat&logo=gmail)](mailto:cahianfreire@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cahian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cahian)
+[![Instagram](https://img.shields.io/badge/Instagram-@cahianfreire-purple?style=flat&logo=instagram)](https://www.instagram.com/cahianfreire)
+
