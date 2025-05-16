@@ -20,10 +20,6 @@ I'm a Software Engineer passionate about creating efficient and scalable solutio
 - **Data Tools:** Pandas, Jupyter, Power BI, Excel
 - **Others:** Git, GitHub
 
-## 📊 My GitHub Stats
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 ## 📫 Where to find me
 
 [![Email](https://img.shields.io/badge/Email-cahianfreire@gmail.com-red?style=flat&logo=gmail)](mailto:cahianfreire@gmail.com)
